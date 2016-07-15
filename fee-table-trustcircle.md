@@ -1,5 +1,5 @@
 ---
-title: Fee Table | TrustCircle
+title: Fee Table
 date: '2016-07-15 11:20:00'
 layout: page
 ---
