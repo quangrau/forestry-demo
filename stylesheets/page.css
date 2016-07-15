@@ -1,0 +1,16 @@
+@import url(./bootstrap.min.css);
+/* Color Definitions */
+header {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-align: center; }
+
+.page__title {
+  margin-top: 16px; }
+
+.fee-table thead tr th {
+  color: #33a9e0; }
+.fee-table thead tr:first-child th {
+  border-bottom: 0; }
+.fee-table tbody tr:first-child td {
+  border-top: 0; }
